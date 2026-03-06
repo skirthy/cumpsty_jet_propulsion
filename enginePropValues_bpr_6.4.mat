@@ -1,0 +1,443 @@
+# Created by Octave 8.4.0, Fri Mar 06 21:20:19 2026 IST <skirthy@AC130>
+# name: engine
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 23
+# name: bypStations
+# type: matrix
+# rows: 1
+# columns: 3
+ 2 13 19
+
+
+# name: coreStations
+# type: matrix
+# rows: 1
+# columns: 7
+ 2 23 3 4 45 5 9
+
+
+# name: altCruise
+# type: scalar
+31000
+
+
+# name: machNo
+# type: scalar
+0.84999999999999998
+
+
+# name: velCruise
+# type: scalar
+256.61499999999995
+
+
+# name: eff013to02
+# type: scalar
+0.90000000000000002
+
+
+# name: eff019to013
+# type: scalar
+1
+
+
+# name: eff023to02
+# type: scalar
+0.90000000000000002
+
+
+# name: eff03to023
+# type: scalar
+0.90000000000000002
+
+
+# name: eff04to03
+# type: scalar
+1
+
+
+# name: eff045to04
+# type: scalar
+0.90000000000000002
+
+
+# name: eff05to045
+# type: scalar
+0.90000000000000002
+
+
+# name: eff09to05
+# type: scalar
+1
+
+
+# name: bypRatio
+# type: scalar
+6.4000000000000004
+
+
+# name: fuelLCV
+# type: scalar
+43
+
+
+# name: velJetCore
+# type: scalar
+398.88436843651647
+
+
+# name: velJetByp
+# type: scalar
+398.88436843654034
+
+
+# name: TgrossPerCoreMdot
+# type: scalar
+2.9517443264302221
+
+
+# name: TnetPerCoreMdot
+# type: scalar
+1.0527933264302223
+
+
+# name: effProp
+# type: scalar
+0.78296032721457154
+
+
+# name: effTherm
+# type: scalar
+0.53255963352217883
+
+
+# name: effOverall
+# type: scalar
+0.41697904133023866
+
+
+# name: sfc
+# type: scalar
+0.52520983499310836
+
+
+
+
+# name: staticProp
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: temp2
+# type: scalar
+226.72999999999999
+
+
+# name: pres2
+# type: scalar
+28.745000000000001
+
+
+
+
+# name: stagProp
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 50
+# name: temp02
+# type: scalar
+259.49248499999993
+
+
+# name: pres02
+# type: scalar
+46.101770297470807
+
+
+# name: PR023to02
+# type: scalar
+1.6000000000000001
+
+
+# name: pres023
+# type: scalar
+73.762832475953289
+
+
+# name: temp023
+# type: scalar
+300.93076379329847
+
+
+# name: TR023to02
+# type: scalar
+1.1596897065951584
+
+
+# name: PD023to02
+# type: scalar
+27.661062178482481
+
+
+# name: TD023to02
+# type: scalar
+41.438278793298537
+
+
+# name: PR03to023
+# type: scalar
+25
+
+
+# name: pres03
+# type: scalar
+1844.0708118988323
+
+
+# name: temp03
+# type: scalar
+805.31899572534724
+
+
+# name: TR03to023
+# type: scalar
+2.6760939479039103
+
+
+# name: PD03to023
+# type: scalar
+1770.307979422879
+
+
+# name: TD03to023
+# type: scalar
+504.38823193204877
+
+
+# name: temp04
+# type: scalar
+1450
+
+
+# name: pres04
+# type: scalar
+1844.0708118988323
+
+
+# name: PR04to03
+# type: scalar
+1
+
+
+# name: TR04to03
+# type: scalar
+1.800528744133238
+
+
+# name: PD04to03
+# type: scalar
+0
+
+
+# name: TD04to03
+# type: scalar
+644.68100427465276
+
+
+# name: temp045
+# type: scalar
+945.61176806795129
+
+
+# name: TR045to04
+# type: scalar
+0.65214604694341471
+
+
+# name: pres045
+# type: scalar
+333.51678528070551
+
+
+# name: PR045to04
+# type: scalar
+0.18085899040790337
+
+
+# name: PD045to04
+# type: scalar
+-1510.5540266181267
+
+
+# name: TD045to04
+# type: scalar
+-504.38823193204871
+
+
+# name: PR013to02
+# type: scalar
+1.752479118112934
+
+
+# name: pres013
+# type: scalar
+80.792389754356691
+
+
+# name: temp013
+# type: scalar
+309.61972868502153
+
+
+# name: TR013to02
+# type: scalar
+1.1931741633482049
+
+
+# name: PD013to02
+# type: scalar
+34.690619456885884
+
+
+# name: TD013to02
+# type: scalar
+50.127243685021597
+
+
+# name: temp05
+# type: scalar
+583.35912969051446
+
+
+# name: TR05to045
+# type: scalar
+0.61691187587736795
+
+
+# name: pres05
+# type: scalar
+47.887999855375206
+
+
+# name: PR05to045
+# type: scalar
+0.14358497673533915
+
+
+# name: PD05to045
+# type: scalar
+-285.62878542533031
+
+
+# name: TD05to045
+# type: scalar
+-362.25263837743682
+
+
+# name: PR09to05
+# type: scalar
+0.60025476292206237
+
+
+# name: pres09
+# type: scalar
+28.745000000000001
+
+
+# name: temp09
+# type: scalar
+504.20055288305247
+
+
+# name: TR09to05
+# type: scalar
+0.86430558333859031
+
+
+# name: PD09to05
+# type: scalar
+-19.142999855375205
+
+
+# name: TD09to05
+# type: scalar
+-79.158576807461998
+
+
+# name: PR019to013
+# type: scalar
+0.3557884608611907
+
+
+# name: pres019
+# type: scalar
+28.745000000000001
+
+
+# name: temp019
+# type: scalar
+230.46115187755007
+
+
+# name: TR019to013
+# type: scalar
+0.74433613405817534
+
+
+# name: PD019to013
+# type: scalar
+-52.047389754356686
+
+
+# name: TD019to013
+# type: scalar
+-79.158576807471462
+
+
+
+
+# name: gasProp
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 7
+# name: tempSI
+# type: scalar
+226.72999999999999
+
+
+# name: presSI
+# type: scalar
+28745
+
+
+# name: rhoSI
+# type: scalar
+0.44169999999999998
+
+
+# name: sosSI
+# type: scalar
+301.89999999999998
+
+
+# name: const
+# type: scalar
+287
+
+
+# name: gamma
+# type: scalar
+1.3999999999999999
+
+
+# name: cp
+# type: scalar
+1005
+
+
+
+
